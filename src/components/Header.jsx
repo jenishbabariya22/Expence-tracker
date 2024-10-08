@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg" style={{ background: "#2980b9" }}>
+    <nav className="navbar navbar-expand-lg " style={{ background: "#2980b9" }}>
       <div className="container-fluid">
         <Link className="navbar-brand text-light" to="/">
           Expense Tracker

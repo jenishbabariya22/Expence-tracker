@@ -47,4 +47,4 @@ Deleting Expenses:
 Click the delete button next to any expense you wish to remove from the list.
 
 
-versel :- 
+versel :- https://expence-tracker-azure-alpha.vercel.app
